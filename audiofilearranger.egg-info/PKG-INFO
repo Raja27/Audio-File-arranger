@@ -1,8 +1,8 @@
 Metadata-Version: 1.1
 Name: audiofilearranger
-Version: 0.1.0
+Version: 0.1.1
 Summary: Audio file arranger
-Home-page: https://rajaprasanna27@bitbucket.org/devshort/audio-file-arranger.git
+Home-page: https://github.com/Raja27/Audio-File-arranger.git
 Author: MRP DevShort
 Author-email: mrppythondev@gmail.com
 License: MIT
@@ -27,7 +27,7 @@ Description: Audio File Arranger
         
         pip install eyeD3
         
-Keywords: mp3
+Keywords: mp3,audio
 Platform: UNKNOWN
 Classifier: Development Status :: 3 - Alpha
 Classifier: Intended Audience :: Developers

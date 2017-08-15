@@ -22,13 +22,13 @@ setup(
     # Versions should comply with PEP440.  For a discussion on single-sourcing
     # the version across setup.py and the project code, see
     # https://packaging.python.org/en/latest/single_source_version.html
-    version='0.1.0',
+    version='0.1.1',
 
     description='Audio file arranger',
     long_description=long_description,
 
     # The project's main homepage.
-    url='https://rajaprasanna27@bitbucket.org/devshort/audio-file-arranger.git',
+    url='https://github.com/Raja27/Audio-File-arranger.git',
 
     # Author details
     author='MRP DevShort',
@@ -63,7 +63,7 @@ setup(
     ],
 
     # What does your project relate to?
-    keywords='mp3',
+    keywords='mp3, audio',
 
     # You can just specify the packages manually here if your project is
     # simple. Or you can use find_packages().
